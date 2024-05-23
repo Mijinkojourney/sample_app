@@ -1,0 +1,59 @@
+[33mcommit 46f7f7400ef5a5e2ea28dfae3843d466de60722a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-login[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32msign-up[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Thu May 23 15:21:15 2024 +0000
+
+    finish ch07
+
+[33mcommit cac9cb4f6d2e22d26652136d214a1bcdb64794bf[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Wed May 8 14:29:10 2024 +0000
+
+    Add build script
+
+[33mcommit 9d9ffb66dd74ec7d223076c2264a44f1ef1f8f0c[m[33m ([m[1;32mmodeling-users[m[33m)[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Wed May 8 14:16:06 2024 +0000
+
+    Finish Chapter6
+
+[33mcommit 402eb35905073546edc41966c73a0dbf8f9c4d06[m[33m ([m[1;32mfilling-in-layout[m[33m)[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Wed May 1 11:59:22 2024 +0000
+
+    Finish layout and routes
+
+[33mcommit 98514a7343f53d99a19f44ecfc78bc2639937e81[m[33m ([m[1;32mrails-flavored-ruby[m[33m)[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 27 07:01:34 2024 +0000
+
+    Finish ch04
+
+[33mcommit 73f94b063ed5f946a8f5560d4235ffdd0a162b18[m[33m ([m[1;32mstatic-pages[m[33m)[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 20 09:28:51 2024 +0000
+
+    Finish static pages
+
+[33mcommit 551a3f77646049d60b37935d5beeb4b5a8f3d77a[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 20 06:20:55 2024 +0000
+
+    Exec: rails generate controller StaticPages home help
+
+[33mcommit a11bd20e660624711a85c4c584fcf34d2067f67b[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 20 05:29:39 2024 +0000
+
+    pass
+
+[33mcommit dc2446049e3c1e9de8e35feece0fd1e8115fad5c[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 20 05:00:35 2024 +0000
+
+    Improve the README
+
+[33mcommit c2ae96a7f04dcfc1b0607fa262364abcc6f28369[m
+Author: Mijinkojourney <166620611+Mijinkojourney@users.noreply.github.com>
+Date:   Sat Apr 20 13:54:02 2024 +0900
+
+    Initial commit
